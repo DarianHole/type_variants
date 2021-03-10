@@ -1,3 +1,5 @@
+#!/bin/python
+
 from Bio import SeqIO
 import argparse
 import sys
